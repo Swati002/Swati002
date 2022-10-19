@@ -34,7 +34,7 @@
 <!-- ##### Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/Swati002/count.svg) -->
 
-[![@swati02's Holopin board](https://holopin.me/swati02)](https://holopin.io/@swati02)
+<!-- [![@swati02's Holopin board](https://holopin.me/swati02)](https://holopin.io/@swati02) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swati002&label=Profile%20views&color=0e75b6&style=flat" alt="swati002" /> </p>
 
