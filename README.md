@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Swati Goel</h1>
-<img align="right" alt="Coding" width="400" src="https://github.com/Swati002/Swati002/blob/main/image.png"> 
+<!-- <img align="right" alt="Coding" width="400" src="https://github.com/Swati002/Swati002/blob/main/image.png">  -->
 <h3 align="left">Front-End Web Developer</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/Swati002/Swati002/blob/main/image.png"> 
  -->
